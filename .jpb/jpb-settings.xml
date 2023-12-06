@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseMigrationSettings" lastSelectedDirectory="db/changelog/#date(&quot;yyyy&quot;)/#date(&quot;MM&quot;)" physicalNamingStrategy="PhysicalNamingStrategyStandardImpl" sequenceNamingStrategy="SINGLE_SEQUENCE" />
+  <component name="JpaPluginProjectSettings">
+    <option name="entityNameTemplate" value="${className}" />
+    <option name="tableNameTemplate" value="${className.underscore()}" />
+    <option name="columnNameTemplate" value="${fieldName}" />
+    <option name="scaffoldingLanguage" />
+  </component>
+</project>
